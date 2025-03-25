@@ -113,7 +113,6 @@ To fix the vulnerability, the following improvements were implemented:
 
 ## Screenshots or Evidence
 
-*Include images demonstrating successful exploitation.*
 
 ## Conclusion and Learnings
 
